@@ -16,4 +16,6 @@ class DashboardsController < ApplicationController
   def dashboard_4_1
   end
 
+  def dashboard_5
+  end
 end
