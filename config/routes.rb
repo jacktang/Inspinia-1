@@ -81,6 +81,8 @@ Myapp::Application.routes.draw do
   get "miscellaneous/idle_timer"
   get "miscellaneous/spinners"
   get "miscellaneous/live_favicon"
+  get "miscellaneous/sweet_alert"
+  get "miscellaneous/masonry"
 
   get "uielements/typography"
   get "uielements/icons"

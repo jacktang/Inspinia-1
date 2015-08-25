@@ -47,4 +47,9 @@ class MiscellaneousController < ApplicationController
   def live_favicon
   end
 
+  def sweet_alert
+  end
+
+  def masonry
+  end
 end
